@@ -31,6 +31,5 @@ And thats it! Open the project at localhost:8000
 This project doesnt have any authentication. All you need to do is a post request to localhost:8000/api/ including the parameters "query=yoursearch" as follows:
 
 ```
-
+curl 'http://localhost:8000/api/'  --data 'query=michael jackson'
 ```
-
