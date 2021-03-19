@@ -7,7 +7,7 @@ chardet==3.0.4
 defusedxml==0.6.0
 Django==3.0.8
 django-webpack-loader==0.7.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 idna==2.10
 isodate==0.6.0
 lxml==4.5.2
